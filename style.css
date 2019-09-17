@@ -1,0 +1,14 @@
+selector {
+  property: value;
+}
+p {
+  color: red;
+}
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+h2 {
+  text-align: center;
+  font-size: 60px;
+}
